@@ -1,0 +1,5 @@
+br\edu\fema\controller\UsuarioController.class
+br\edu\fema\config\ConfigurationSwagger.class
+br\edu\fema\repository\IUsuarioJPARepository.class
+br\edu\fema\model\Usuario.class
+br\edu\fema\RestTemplateApplication.class
